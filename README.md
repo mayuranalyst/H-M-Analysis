@@ -14,12 +14,13 @@ I have also used Pytho (Jupyter Notebook) to conduct this exploratory Data Analy
 
 
 Results of this Analysis of this Dataset:
+
 Assumption: The discounted price (as shown on the H&M's website) is the final selling price
-Maximum selling Price was for Padded Leather Shopper and the price was 254.15 USD
-Minimum selling Price was for a range of items mainly Crop Tops and Cotton Tshirts and the Price was 5.09 USD
-The Average selling Price for all the Products is 27.42 USD (Note: Outliers, which were not eliminated, considerably affect this result)
-Wordcloud shows us that the data mainly contains items with "Turtleneck", "Blouse","Sweater". Further information on sales will help us on predicting the regional/global fashion trends
-The Maximum Discount was offered to the following Product: Padded Leather Shopper and the discount was 44.84 USD
-The Minimum Discount was offered for a range of items mainly Crop Tops and Cotton Tshirts and discount was 0.90 USD
-Average Discount for the Products was 4.84 USD
-Assuming all of these 1096 items got sold, it will bring in the revenue of 30056 USD
+1. Maximum selling Price was for Padded Leather Shopper and the price was 254.15 USD
+2. Minimum selling Price was for a range of items mainly Crop Tops and Cotton Tshirts and the Price was 5.09 USD
+3. The Average selling Price for all the Products is 27.42 USD (Note: Outliers, which were not eliminated, considerably affect this result)
+4. Wordcloud shows us that the data mainly contains items with "Turtleneck", "Blouse","Sweater". Further information on sales will help us on predicting the regional/global fashion trends
+5. The Maximum Discount was offered to the following Product: Padded Leather Shopper and the discount was 44.84 USD
+6. The Minimum Discount was offered for a range of items mainly Crop Tops and Cotton Tshirts and discount was 0.90 USD
+7. Average Discount for the Products was 4.84 USD
+8. Assuming all of these 1096 items got sold, it will bring in the revenue of 30056 USD
