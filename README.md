@@ -11,3 +11,15 @@ I have scraped the offical website of H&M to derive insights on Women's clothing
 This is an exploratory data analysis to derive primary conclusions based on the data.
 The PowerBI visualization is a sample of how i would visualize this data.
 I have also used Pytho (Jupyter Notebook) to conduct this exploratory Data Analysis
+
+
+Results of this Analysis of this Dataset:
+Assumption: The discounted price (as shown on the H&M's website) is the final selling price
+Maximum selling Price was for Padded Leather Shopper and the price was 254.15 USD
+Minimum selling Price was for a range of items mainly Crop Tops and Cotton Tshirts and the Price was 5.09 USD
+The Average selling Price for all the Products is 27.42 USD (Note: Outliers, which were not eliminated, considerably affect this result)
+Wordcloud shows us that the data mainly contains items with "Turtleneck", "Blouse","Sweater". Further information on sales will help us on predicting the regional/global fashion trends
+The Maximum Discount was offered to the following Product: Padded Leather Shopper and the discount was 44.84 USD
+The Minimum Discount was offered for a range of items mainly Crop Tops and Cotton Tshirts and discount was 0.90 USD
+Average Discount for the Products was 4.84 USD
+Assuming all of these 1096 items got sold, it will bring in the revenue of 30056 USD
